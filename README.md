@@ -4,5 +4,5 @@ this repo is a collection of code example written to follow the articles publish
 
 ### Curry and Function Composition
 ```zsh
-node run watch -- src/curryAndFunctionComposition.ts
+npm run watch -- src/curryAndFunctionComposition.ts
 ```
